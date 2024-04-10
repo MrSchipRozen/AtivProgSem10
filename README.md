@@ -1,6 +1,4 @@
 # AtivProgSem10
-# AtivProgSem10
-
 
 # Automação do Terraform com GitHub Actions
 
